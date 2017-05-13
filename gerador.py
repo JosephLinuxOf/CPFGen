@@ -80,7 +80,8 @@ print \
 | |___|  __/|  _|   | |_| |  __/ | | |
  \____|_|   |_|      \____|\___|_| |_|
                                       
-Joe Linux - TLBSec 2016
+Codificado por Joe Linux
+Autor desconhecido
 """
 
 print "Quantos CPFs serão gerados?"
